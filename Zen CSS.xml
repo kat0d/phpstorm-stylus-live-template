@@ -1,5 +1,5 @@
 <templateSet group="Zen CSS">
-  <template name="ac" value="align-content  $END$" description="align-content:...;" toReformat="true" toShortenFQNames="false">
+  <template name="ac" value="align-content $END$" description="align-content:...;" toReformat="true" toShortenFQNames="false">
     <context />
   </template>
   <template name="ac:c" value="align-content center" description="align-content:center;" toReformat="true" toShortenFQNames="false">
